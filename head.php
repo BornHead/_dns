@@ -78,12 +78,6 @@ if($_SESSION['id'] != null)
     <!--Naver Search Advisor-->
     <link rel="canonical" href="https://officialsite.kr">
 
-    <link rel="stylesheet" type="text/css" href="/asset/css//indexlayout.css">
-    <link href="/asset/css/layout.css" rel="stylesheet">
-    <link href="/asset/css/page.css" rel="stylesheet">
-    <link href="/asset/css/mediaquery.css" rel="stylesheet">
-    <link href="/asset/css/m-menu.css" rel="stylesheet">
-
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script type="text/javascript" src="/asset/js/jquery.min.js"></script>
