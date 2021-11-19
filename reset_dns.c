@@ -13,7 +13,7 @@ void main(int argc, char *argv[])
         MYSQL_RES *res;
         MYSQL_ROW row;
 
-        char *server = "[your server]";                            // ddns or ip
+        char *server = "[your server]";                            // ddns or ip in your own
         char *user = "[your server id]";
         char *password = "[your server pw]";
         char *database = "[your server database]";
